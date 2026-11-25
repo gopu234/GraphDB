@@ -1,0 +1,101 @@
+start_point,end_point,distance_km,time,speed_limit_kmh,road_type,traffic_factor
+Matthew Groves,Jessica Mountain,77.79,119.68,50,main road,0.79
+Fischer Shores,Ashley Islands,51.35,110.04,130,residential road,1.58
+Warren Estates,Baker Light,61.64,52.83,130,dirt road,1.29
+Ross Groves,Amy Meadow,48.0,75.79,30,dirt road,1.65
+Turner Mountain,Amy Meadow,38.14,20.25,140,residential road,1.02
+Roy Motorway,Stacey Court,4.23,3.25,70,main road,0.63
+Melissa Courts,Lisa Forge,6.72,4.48,130,highway,0.78
+Michelle Pine,Cooper Orchard,27.72,31.98,90,dirt road,1.54
+Daniel Street,Tyler Inlet,40.67,26.24,70,highway,1.14
+Randolph Bypass,Thornton Row,24.24,17.11,140,residential road,1.4
+Matthew Course,Lawson Freeway,9.38,18.76,90,residential road,0.96
+Willis Stream,Ann Ramp,4.27,5.69,90,residential road,1.63
+Robert Terrace,David Lake,8.5,7.73,130,residential road,0.71
+Emily Forge,Glover Mountain,25.47,14.28,140,residential road,1.21
+Schmidt Forges,Lisa Forge,43.79,25.26,130,residential road,1.15
+Glover Mountain,Mcbride Alley,36.26,20.14,140,highway,1.32
+Elizabeth Mountains,Hines Vista,93.65,85.14,130,residential road,0.88
+Brandy Lights,Ferguson Camp,54.87,29.39,110,residential road,1.9
+Patel Corner,Lee Mountain,28.25,22.3,110,main road,1.61
+Rose Locks,Fischer Shores,58.41,35.4,90,dirt road,1.05
+Horton Flats,Green Stream,86.61,225.94,90,main road,0.91
+Acosta Stravenue,Griffin Key,6.22,8.89,130,dirt road,1.87
+Amy Meadow,Kim Tunnel,87.83,63.49,110,dirt road,1.5
+Jacob Hollow,Carol Bypass,59.99,171.4,140,residential road,0.87
+Carol Bypass,Kelly Spring,44.85,26.13,110,main road,1.09
+Steven Manor,Walker Place,60.35,32.62,50,residential road,1.2
+Garcia Landing,Sierra Spur,14.3,20.43,70,dirt road,1.63
+David Lake,Nicole Manor,11.57,14.17,140,highway,0.87
+Garcia Bypass,David Lake,81.22,110.75,70,highway,0.68
+Jennifer Path,Emily Forge,23.18,21.4,90,highway,1.79
+Warner Ramp,Carol Bypass,59.8,69.0,70,highway,0.53
+Green Stream,Mitchell Stravenue,60.58,82.61,30,highway,1.86
+Crystal Stream,Sanchez Square,98.3,54.61,140,dirt road,1.18
+Jason Way,Nicole Manor,61.89,92.84,130,highway,1.21
+Thornton Row,Gardner Lake,55.43,35.76,50,main road,1.15
+Crystal Squares,Lawson Freeway,57.42,32.2,110,main road,1.25
+Leon River,Parker Club,28.6,35.02,70,residential road,1.01
+Hamilton Springs,Matthew Groves,5.54,4.0,130,dirt road,0.62
+Andrew Spring,Andrew Spring,27.78,40.65,70,residential road,0.57
+Angela Causeway,Ross Groves,50.31,33.92,110,main road,0.57
+Robin Grove,Daniel Street,30.25,62.59,50,dirt road,1.56
+Emily Locks,Crystal Squares,79.21,42.43,110,highway,1.38
+Woods Rue,Randolph Bypass,50.82,53.49,140,highway,0.54
+Owens Lock,Ross Groves,21.78,38.44,130,highway,0.56
+Wilson Island,Garcia Bypass,78.61,120.94,140,highway,0.93
+Salas Springs,Garcia Landing,87.88,122.62,70,main road,0.8
+Mitchell Stravenue,Acosta Stravenue,13.71,27.42,50,main road,0.96
+Marquez Shoals,Amy Meadow,90.52,123.44,110,highway,0.69
+Peck Ways,Hansen Lane,1.36,1.57,30,residential road,1.85
+Omar Point,Andrew Ranch,97.91,202.57,70,residential road,0.7
+Teresa Mountain,Robin Grove,55.93,35.32,140,residential road,1.32
+Lawson Freeway,Warren Estates,64.73,117.69,130,main road,1.02
+Lee Mountain,Nicole Manor,34.31,30.27,140,highway,1.49
+Flores Brook,Leon River,28.3,35.38,50,dirt road,1.98
+Sierra Spur,Mitchell Stravenue,56.2,116.28,30,residential road,0.62
+Thomas Drive,Matthew Groves,19.36,10.96,50,main road,1.49
+Osborn Wall,Walker Place,58.22,43.13,130,main road,0.94
+Karen Pines,James Square,77.56,49.51,90,main road,1.36
+Ferguson Camp,Teresa Mountain,11.19,15.61,140,residential road,1.93
+Mcbride Alley,Mann Ville,69.72,49.8,50,highway,1.95
+Steven Stream,Leon River,62.99,134.98,70,dirt road,1.05
+Sandra Ranch,Benjamin Glens,11.82,6.82,30,dirt road,1.4
+Kelly Spring,Robin Grove,31.25,41.67,90,highway,1.48
+Jerry Island,Stephanie Ford,46.21,33.4,90,dirt road,1.29
+Cardenas Well,Flores Brook,11.03,9.07,50,residential road,1.83
+Stacey Court,Stacey Court,31.27,15.77,70,main road,1.93
+Nicole Manor,Benjamin Glens,4.93,6.72,130,main road,1.63
+Jessica Mountain,Angela Causeway,3.37,10.11,90,residential road,1.58
+James Place,Kelly Spring,31.06,24.52,110,highway,1.1
+Benjamin Glens,Osborn Wall,80.37,166.28,50,highway,0.92
+Matthew Row,Benjamin Glens,32.45,18.2,50,highway,1.52
+Mann Ville,Karen Pines,55.06,37.12,70,dirt road,0.83
+Tyler Inlet,Karen Pines,15.61,30.21,50,dirt road,1.72
+Cooper Orchard,Willis Stream,33.59,59.28,130,dirt road,1.68
+Baker Light,Mitchell Stravenue,92.61,59.11,70,residential road,0.92
+Lisa Forge,Cooper Orchard,67.59,34.66,140,residential road,0.8
+Hansen Lane,Brandt Lights,66.44,55.37,50,residential road,0.69
+Solomon Crossroad,Matthew Course,27.15,31.33,50,highway,0.73
+Ann Ramp,Cooper Orchard,72.17,72.17,110,residential road,1.94
+Ricky Pike,Patel Corner,32.58,47.68,90,dirt road,0.59
+Foster Landing,Garcia Landing,26.36,21.09,50,residential road,1.25
+Parker Club,Warren Estates,62.31,67.97,140,residential road,0.72
+Andrew Ranch,Lee Mountain,6.96,3.76,130,dirt road,1.27
+Stephanie Ford,Fischer Shores,80.93,42.97,70,dirt road,0.65
+Ashley Islands,Garcia Bypass,68.64,39.6,90,residential road,1.03
+Griffin Key,Gardner Lake,95.91,79.92,90,residential road,1.93
+Michael Street,Kelly Spring,63.09,172.06,130,residential road,0.78
+Ramirez Isle,Walker Place,99.39,205.63,130,residential road,0.64
+Marcus Freeway,Owens Lock,69.99,44.67,70,highway,1.19
+Walker Place,Matthew Row,43.41,130.23,50,highway,0.97
+James Square,Jennifer Path,11.52,11.92,110,dirt road,1.25
+Cynthia Ferry,Ferguson Camp,94.1,57.03,110,residential road,0.76
+Kim Tunnel,Mann Ville,32.96,18.83,70,main road,1.58
+Jay Prairie,Willis Stream,58.38,36.11,70,main road,1.25
+Reed Drives,Gardner Lake,26.76,33.45,130,residential road,0.58
+Hines Vista,Gardner Lake,83.95,58.57,50,dirt road,0.56
+Gardner Lake,Green Stream,33.03,33.03,90,main road,1.91
+Flores Stravenue,Teresa Mountain,8.46,6.77,130,residential road,1.4
+Sanchez Square,Wilson Island,3.8,2.35,140,highway,0.62
+Brandt Lights,Brandt Lights,92.84,214.25,110,residential road,1.23
